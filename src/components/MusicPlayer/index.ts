@@ -2,4 +2,4 @@ export * from "./Track";
 export * from "./Player";
 export * from "./Seekbar";
 export * from "./Controls";
-export * from "./Volumebar";
+export * from "./VolumeBar";

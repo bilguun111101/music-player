@@ -1,6 +1,6 @@
 export * from "./Error";
 export * from "./Loader";
-export * from "./TopPlay";
+// export * from "./TopPlay";
 export * from "./Sidebar";
 export * from "./Songbar";
 export * from "./SongCard";
